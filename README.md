@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajayisaheed
+- 👋 Hi, I’m Saheed Ajayi
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any software engineering project
